@@ -17,4 +17,5 @@ func main() {
 	go say("hello")
 	go say("jiji")
 	say("dandan")
+	println("what's wrong")
 }
